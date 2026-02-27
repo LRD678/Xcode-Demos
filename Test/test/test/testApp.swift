@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// launch file (ready)
 @main
 struct testApp: App {
     var body: some Scene {
